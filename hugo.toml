@@ -1,0 +1,4 @@
+baseURL = 'https://bzuniga.github.io/'
+languageCode = 'en-us'
+title = 'bzuniga.github.io'
+theme = 'ananke'
